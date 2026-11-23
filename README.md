@@ -27,6 +27,16 @@ Rather than relying on a traditional database, all data is persisted in pipe-del
 
 ---
 
+## My Contribution — Student Management Module
+
+As a member of Group 53, I was responsible for designing and implementing the **Student Management** component and its underlying file-handling layer:
+
+* **Student CRUD & Profile Workflows (Servlets):** Implemented student registration, profile updates, and admin student management actions (`RegisterServlet.java`, `UpdateProfileServlet.java`, `UpdateStudentServlet.java`, `DeleteStudentServlet.java`).
+* **Data Access & File Persistence:** Developed the `Student.java` model, implemented user data access logic in `UserDAO.java`, and built the file I/O utility (`FileHandler.java`) to persist student records in `students.txt`.
+* **Frontend Views (JSP):** Created the user interfaces for student sign-up, student dashboard, profile settings, and admin student management (`signup.jsp`, `student-dashboard.jsp`, `profile-settings.jsp`, `manage-students.jsp`).
+
+---
+
 ## ✨ Features
 
 ### 👤 Student
