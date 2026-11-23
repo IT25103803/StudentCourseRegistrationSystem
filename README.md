@@ -7,6 +7,7 @@ A full-stack **Java Web Application** for managing university course registratio
 ## 📋 Table of Contents
 
 - [Overview](#overview)
+- [My Contribution](#my-contribution--student-management-module)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
